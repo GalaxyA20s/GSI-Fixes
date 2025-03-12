@@ -2,6 +2,7 @@
 This branch targets GSIs based on **TrebleDroid 15** and does the following:
 * Fixes the fingerprint sensor.
 * Fixes the swap partition.
+* Fixes MTP (still requires a kernel with the respective fix too)
 
 The fingerprint fix requires LSPosed. Its source code can be found in the "[A20sFingerprintFix](./A20sFingerprintFix/)" folder.
 
